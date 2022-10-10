@@ -1,0 +1,34 @@
+﻿body {
+    background-color:#353535;
+    padding:0px;
+    border:0px;
+    margin:0px;
+}
+.Top{ margin:0px;border:0px;padding:28px;background-color:#000000 }
+.Line{height:2px}
+.Title{color:#e8e8e8;border:0px;margin:0px}
+h4 {color:#ffffff;text-align:center}
+h2 {color:#ffffff;text-align:center}
+p{color:#ffffff;text-align:center}
+.Space{ height:80px}
+.Divimg {
+  background-color:#525252
+}
+.Mimg {
+    display: block;
+    margin: 0 auto;
+    width:60%
+}
+.Down{
+    background-color:#ffffff;
+    padding:36px
+}
+.EndText {
+    color:#000000
+}
+.bg {
+    background-color:#334455;
+    padding:18px;
+    margin:0px;
+    border:0px;
+}

@@ -14,6 +14,11 @@ p{color:#ffffff;text-align:center}
 .Divimg {
   background-color:#525252
 }
+.ImgTable {
+    border: 0px;
+    margin: auto;
+}
+
 .Mimg {
     display: block;
     margin: 0 auto;
